@@ -9,6 +9,6 @@ public class MathTest {
         System.out.println("ROUND: " + Math.round(44.6)); 
         System.out.println("MAX: " + Math.max(12, 87)); 
         System.out.println("MIN: " + Math.min(31, 11));
-        System.out.println("RANDOM: " + Math.random() * 100);
+        System.out.println("RANDOM: " + Math.random());
     }
 }
